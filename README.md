@@ -26,5 +26,6 @@ I'm looking for a job related to data analysis.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Minsoo0405&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
