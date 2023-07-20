@@ -24,8 +24,7 @@ I'm looking for a job related to data analysis.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 #### Communication Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
+ 
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Minsoo0405&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
