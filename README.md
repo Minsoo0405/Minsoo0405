@@ -3,6 +3,7 @@
 
 My major is Industrial Management Engineering and I graduated KNUT.
 I'm looking for a job related to data analysis.
+
 [![Blog Badge](https://img.shields.io/badge/Blog-128848?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@munsi0405)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkqqkb@gmail.com)](mailto:munsi040513@gmail.com)
 ---
 ## Tech Stack
@@ -23,6 +24,7 @@ I'm looking for a job related to data analysis.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Minsoo0405&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
