@@ -5,7 +5,8 @@ My major is Industrial Management Engineering and I graduated KNUT.
 I'm looking for a job related to data analysis.
 
 [![Blog Badge](https://img.shields.io/badge/Blog-128848?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@munsi0405)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkqqkb@gmail.com)](mailto:munsi040513@gmail.com)
----
+
+
 ## Tech Stack
 
 #### Version Control
