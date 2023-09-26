@@ -10,3 +10,4 @@
 
 ## GitHub stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Minsoo0405&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=munsi0405)](https://solved.ac/munsi0405)
